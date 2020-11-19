@@ -1,12 +1,11 @@
-### Hi there 👋
 <p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/img.png"/></p>
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=CristianCala&show_icons=true&theme=synthwave">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=CristianCala&show_icons=true&theme=synthwave" />
   </a>
-  <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCala&layout=compact)](https://github.com/CristianCala/github-readme-stats)">
-  	<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCala&layout=compact)](https://github.com/CristianCala/github-readme-stats)">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCala&layout=compact">
+  	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCala&layout=compact">
   </a>
 </p>
 
