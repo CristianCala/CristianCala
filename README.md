@@ -1,21 +1,24 @@
 <p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/img.png"/></p>
+<br>
 
-¡Hey!	Soy un joven amante de aprender nuevas cosas y un gran entusiasta de las aventuras técnologicas de la humanidad! Soy desarrollador independiente en Python (en especial con interfaces gráficas), desarrollador web y técnico de computadores.
+<p style="text-align: center;">¡Hey!	Soy un joven venezolano 🇻🇪 amante de aprender nuevas cosas y un gran entusiasta de las aventuras técnologicas de la humanidad! Soy desarrollador independiente en Python (en especial con interfaces gráficas), desarrollador web y técnico de computadores.</p>
+
+<br>
 
 ## Status Técnico
 
 Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaje:
 <p>
-	 <li> Python <img src="https://img.icons8.com/color/25/000000/python.png"/></li>
-	 <li> Javascript <img src="https://img.icons8.com/color/25/000000/javascript.png"/></li>
-	 <li> PHP <img src="https://img.icons8.com/wired/25/000000/php-logo.png"/></li>
-	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/25/000000/c-plus-plus-logo.png"/></li>
-	 <li> HTML | CSS <img src="https://img.icons8.com/color/25/000000/html-5.png"/><img src="https://img.icons8.com/color/25/000000/css3.png"/></li>
+	 <li> Python <img src="https://img.icons8.com/color/30/000000/python.png"/></li>
+	 <li> Javascript <img src="https://img.icons8.com/color/30/000000/javascript.png"/></li>
+	 <li> PHP <img src="https://img.icons8.com/wired/30/000000/php-logo.png"/></li>
+	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/></li>
+	 <li> HTML | CSS <img src="https://img.icons8.com/color/30/000000/html-5.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/></li>
 	 <li> MySQL | SQLite <img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"/></li>
 	 <li> Django <img src="https://img.icons8.com/color/30/000000/django.png"/></li>
 	 <li> Shell Script <img src="https://img.icons8.com/office/30/000000/console.png"/></li>
 	 <li> Git | Github :octocat:</li>
-	 <li> Técnico en Reparación de PCs [Hardware & Software] </li>
+	 <li> Técnico en Reparación de PCs [Hardware & Software] 🛠</li>
 	 <li> Usuario de Linux <img src="https://img.icons8.com/color/30/000000/linux-mint.png"/><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></li>
 </p>
 
@@ -24,7 +27,7 @@ Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaj
 <p align="center">
 	<a href= "https://www.facebook.com/rafael.sierra.31542841"><img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
 	<a href="https://www.instagram.com/cristianabsoluto/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
-	<a href=""></a>
+	<a href="https://t.me/cristianabsoluto"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/></a>
 	<a href="https://twitter.com/Cristia95149808"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 </p>
 
