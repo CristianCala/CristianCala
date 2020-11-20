@@ -9,13 +9,13 @@ Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaj
  * Python
  * Javascript
  * PHP
- * C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ * C++ (aún aprendiendo...)![cpp](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
  * HTML | CSS
  * MySQL | SQLite
  * Django
  * Shell Script
  * Git | Github :octocat:
-
 
  * Técnico en Reparación de PCs [Hardware & Software]
  * Usuario de Linux 
