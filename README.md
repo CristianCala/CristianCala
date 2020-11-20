@@ -10,16 +10,26 @@
 Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaje:
 <p>
 	 <li> Python <img src="https://img.icons8.com/color/30/000000/python.png"/></li>
+	 <br>
 	 <li> Javascript <img src="https://img.icons8.com/color/30/000000/javascript.png"/></li>
+	 <br>
 	 <li> PHP <img src="https://img.icons8.com/wired/30/000000/php-logo.png"/></li>
+	 <br>
 	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/></li>
+	 <br>
 	 <li> HTML | CSS <img src="https://img.icons8.com/color/30/000000/html-5.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/></li>
+	 <br>
 	 <li> MySQL | SQLite <img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"/></li>
+	 <br>
 	 <li> Django <img src="https://img.icons8.com/color/30/000000/django.png"/></li>
+	 <br>
 	 <li> Shell Script <img src="https://img.icons8.com/office/30/000000/console.png"/></li>
 	 <li> Git | Github :octocat:</li>
+	 <br>
 	 <li> Técnico en Reparación de PCs [Hardware & Software] 🛠</li>
+	 <br>
 	 <li> Usuario de Linux <img src="https://img.icons8.com/color/30/000000/linux-mint.png"/><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></li>
+	 <br>
 </p>
 
 
