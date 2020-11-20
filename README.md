@@ -5,20 +5,19 @@
 ## Status Técnico
 
 Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaje:
-
- * Python
- * Javascript
- * PHP
- * C++ (aún aprendiendo...)![cpp](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
- * HTML | CSS
- * MySQL | SQLite
- * Django
- * Shell Script
- * Git | Github :octocat:
-
- * Técnico en Reparación de PCs [Hardware & Software]
- * Usuario de Linux 
+<p>
+	 <li>* Python</li>
+	 <li>* Javascript</li>
+	 <li>* PHP</li>
+	 <li>* C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/48/000000c-plus-plus-logo.png"></li>
+	 <li>* HTML | CSS</li>
+	 <li>* MySQL | SQLite</li>
+	 * Django
+	 * Shell Script
+	 * Git | Github :octocat:
+	 * Técnico en Reparación de PCs [Hardware & Software]
+	 * Usuario de Linux 
+</p>
 
 
 <h3 align="center">Contáctame 😉</h3>
