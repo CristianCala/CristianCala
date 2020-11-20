@@ -6,17 +6,17 @@
 
 Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaje:
 <p>
-	 <li> Python</li>
-	 <li> Javascript</li>
-	 <li> PHP</li>
-	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/16/000000/c-plus-plus-logo.png"/></li>
-	 <li> HTML | CSS</li>
-	 <li> MySQL | SQLite</li>
-	 <li> Django</li>
-	 <li> Shell Script</li>
+	 <li> Python <img src="https://img.icons8.com/color/25/000000/python.png"/></li>
+	 <li> Javascript <img src="https://img.icons8.com/color/25/000000/javascript.png"/></li>
+	 <li> PHP <img src="https://img.icons8.com/wired/25/000000/php-logo.png"/></li>
+	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/25/000000/c-plus-plus-logo.png"/></li>
+	 <li> HTML | CSS <img src="https://img.icons8.com/color/25/000000/html-5.png"/><img src="https://img.icons8.com/color/25/000000/css3.png"/></li>
+	 <li> MySQL | SQLite <img src="https://img.icons8.com/ios-filled/30/000000/mysql-logo.png"/></li>
+	 <li> Django <img src="https://img.icons8.com/color/30/000000/django.png"/></li>
+	 <li> Shell Script <img src="https://img.icons8.com/office/30/000000/console.png"/></li>
 	 <li> Git | Github :octocat:</li>
-	 <li> Técnico en Reparación de PCs [Hardware & Software]</li>
-	 <li> Usuario de Linux </li>
+	 <li> Técnico en Reparación de PCs [Hardware & Software] </li>
+	 <li> Usuario de Linux <img src="https://img.icons8.com/color/30/000000/linux-mint.png"/><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></li>
 </p>
 
 
