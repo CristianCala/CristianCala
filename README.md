@@ -6,17 +6,17 @@
 
 Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaje:
 <p>
-	 <li>* Python</li>
-	 <li>* Javascript</li>
-	 <li>* PHP</li>
-	 <li>* C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/48/000000c-plus-plus-logo.png"></li>
-	 <li>* HTML | CSS</li>
-	 <li>* MySQL | SQLite</li>
-	 * Django
-	 * Shell Script
-	 * Git | Github :octocat:
-	 * Técnico en Reparación de PCs [Hardware & Software]
-	 * Usuario de Linux 
+	 <li> Python</li>
+	 <li> Javascript</li>
+	 <li> PHP</li>
+	 <li> C++ (aún aprendiendo...)<img src="https://img.icons8.com/color/16/000000/c-plus-plus-logo.png"/></li>
+	 <li> HTML | CSS</li>
+	 <li> MySQL | SQLite</li>
+	 <li> Django</li>
+	 <li> Shell Script</li>
+	 <li> Git | Github :octocat:</li>
+	 <li> Técnico en Reparación de PCs [Hardware & Software]</li>
+	 <li> Usuario de Linux </li>
 </p>
 
 
