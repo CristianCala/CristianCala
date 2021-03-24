@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/img.png"/></p>
 <br>
 
-<p style="text-align: center;">¡Hey!👨‍💻	Soy un joven venezolano 🇻🇪 amante de aprender nuevas cosas y un gran entusiasta de las aventuras técnologicas de la humanidad! Soy desarrollador independiente en Python (en especial con interfaces gráficas), desarrollador web y técnico de computadores.</p>
+<p style="text-align: center;">¡Hey!👨‍💻	Soy un joven venezolano 🇻🇪 amante de aprender nuevas cosas y un gran entusiasta de las aventuras técnologicas de la humanidad! Soy desarrollador independiente en Python (en especial con interfaces gráficas), desarrollador web y técnico de computadores Tambien soy un ajedrecista en mis tiempos libres! contáctame si quieres que juguemos.</p>
 
 <br>
 
@@ -16,6 +16,7 @@ Algunos lenguajes y frameworks que he aprendido en mi aventura por el aprendizaj
 	 <li> HTML | CSS <img src="https://img.icons8.com/color/20/000000/html-5.png"/><img src="https://img.icons8.com/color/20/000000/css3.png"/></li>
 	 <li> MySQL | SQLite <img src="https://img.icons8.com/ios-filled/20/000000/mysql-logo.png"/></li>
 	 <li> Django <img src="https://img.icons8.com/color/20/000000/django.png"/></li>
+	 <li>ElectronJS  & NodeJS</li>
 	 <li> Shell Script <img src="https://img.icons8.com/office/20/000000/console.png"/></li>
 	 <li> Git | Github :octocat:</li>
 	 <li> Técnico en Reparación de PCs [Hardware & Software] 🛠</li>
