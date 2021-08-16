@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/banner.png"/></p>
+<p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/banner.svg"/></p>
 <br>
 
 <p style="text-align: center;">¡Hey!👨‍💻	Soy un joven venezolano 🇻🇪 amante de aprender nuevas cosas y un gran entusiasta de las aventuras técnologicas de la humanidad! Soy desarrollador independiente en Python (en especial con interfaces gráficas), desarrollador web y técnico de computadores Tambien soy un ajedrecista en mis tiempos libres! contáctame si quieres que juguemos.</p>
