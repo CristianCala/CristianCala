@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/banner.svg"/></p>
+<p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/banner.png"/></p>
 
 ¡Hola! Soy un joven venezolano 🇻🇪 amante del arte y las ciencias! Soy desarrollador y diseñador web y he tocado una buena variedad de tecnologías de la web, me gusta hacer SEO, diseñar, crear nuevas funcionalidades a un producto y aunque no tiene que ver pero realmente es uno de mis fuertes me encanta el ajedrez.
 
