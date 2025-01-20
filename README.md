@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/CristianCala/CristianCala/blob/main/statics/banner.png"/></p>
 
-¡Hola! Soy un joven venezolano 🇻🇪 amante del arte y las ciencias! Soy desarrollador y diseñador web y he tocado una buena variedad de tecnologías de la web, me gusta hacer SEO, diseñar, crear nuevas funcionalidades a un producto y aunque no tiene que ver pero realmente es uno de mis fuertes me encanta el ajedrez.
+Hi! I’m a young Venezuelan 🇻🇪 passionate about art and science. I’m a web developer and designer with experience working with a wide range of web technologies. I enjoy SEO, designing, and adding new features to products. Although it’s not directly related to my work, one of my greatest passions and strengths is chess & xtreme sports.
 
 ## Conéctate conmigo 😉
 <p align="center">
