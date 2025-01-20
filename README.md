@@ -2,7 +2,7 @@
 
 Hi! I’m a young Venezuelan 🇻🇪 passionate about art and science. I’m a web developer and designer with experience working with a wide range of web technologies. I enjoy SEO, designing, and adding new features to products. Although it’s not directly related to my work, one of my greatest passions and strengths is chess & xtreme sports.
 
-## Conéctate conmigo 😉
+## Connect with me 😉
 <p align="center">
 	<a href= "https://www.facebook.com/rafael.sierra.31542841"><img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
 	<a href="https://www.instagram.com/cristianabsoluto/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
